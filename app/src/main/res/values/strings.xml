@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="activity_name">IndiaQuiz</string>
+    <string name="question1">Ques1: Who was the first prime minister of India?</string>
+    <string name="question1_option_a">Dr. Rajendra Prasad</string>
+    <string name="question1_option_b">Jawaharlal Nehru</string>
+    <string name="question1_option_c">Mahatma Gandhi</string>
+    <string name="question2">Ques2: Who wrote the national song of India ?</string>
+    <string name="question2_option_a">Rabindranath Tagore</string>
+    <string name="question2_option_b">Jawaharlal Nehru</string>
+    <string name="question2_option_c">Bankim Chandra Chattopadhyay</string>
+    <string name="question3">Ques3: The city Chandigarh is capital of two states. Select them? </string>
+    <string name="question3_option_a">Haryana</string>
+    <string name="question3_option_b">Himachal Pradesh</string>
+    <string name="question3_option_c">Punjab</string>
+    <string name="question4">Ques4: Who was the first Indian to win Param Vir Chakra ?</string>
+    <string name="question4_option_a">Major Somnath Sharma</string>
+    <string name="question4_option_b">Captain Vikram Batra</string>
+    <string name="question4_option_c">Major Sandeep Unnikrishnan</string>
+    <string name="question5">Ques5: Which is India\'s highest peace time gallantry award ?</string>
+    <string name="question5_option_a">Param Vir Chakra</string>
+    <string name="question5_option_b">Ashok Chakra</string>
+    <string name="question5_option_c">Maha Vir Chakra</string>
+    <string name="question6">Ques6: In which continent India is present ?\t</string>
+    <string name="question7">Ques7: Which of the following is India\'s own navigation system ?</string>
+    <string name="question7_option_a">IRNSS</string>
+    <string name="question7_option_b">GPS</string>
+    <string name="question7_option_c">GLONASS</string>
+</resources>
